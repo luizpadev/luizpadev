@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou Luizpadev! 👋
 
-<!--
-**luizpadev/luizpadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Java focado em construir sistemas robustos e escaláveis. Atualmente aprimorando conhecimentos em arquitetura de microsserviços e boas práticas de desenvolvimento.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias e Ferramentas
+- *Linguagens:* Java (8, 11, 17+), SQL
+- *Frameworks:* Spring Boot, Spring Security, Hibernate
+- *Banco de Dados:* PostgreSQL, MySQL, Redis
+- *DevOps/Ferramentas:* Docker, AWS, Git, Maven, Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas do GitHub
+![Estatísticas de luizpadev](https://github-readme-stats.vercel.app/api?username=luizpadev&show_icons=true&theme=radical)
+
+### 📫 Contato
+- LinkedIn (https://www.linkedin.com/in/luiz-oliveira-a4b1a2404/)
+- Portfólio/Blog (https://github.com/luizpadev)
+- Email: mentorluizoliveira@gmail.com
